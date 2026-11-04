@@ -11,5 +11,6 @@ public class CelsiusParaFahrenheit {
         System.out.print("A Temperatura "+celsius+"°C equivale a "+fahrenheit+"°F");
 
 
+
     }
 }
